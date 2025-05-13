@@ -43,7 +43,8 @@
 
     #### Notes and Tips:
     - Keypoints are defined only by their location. Rotation/normals are not considered.
-
+    - Feel free to delete keypoints if necessary
+    - WARNING: In some cases `Blender` crashes upon exporting the `.json` file. Make sure you save your blender file beforehand.
 
 ### 📤 Export to JSON
 
