@@ -46,6 +46,9 @@
     - Feel free to delete keypoints if necessary
     - WARNING: In some cases `Blender` crashes upon exporting the `.json` file. Make sure you save your blender file beforehand.
 
+#### Annotation Guide
+![KeypointsList](assets/AnnotationGuide.png)
+
 ### 📤 Export to JSON
 
 - Click **"Export Points (JSON)"**.
