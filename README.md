@@ -34,7 +34,10 @@
   - Create a new root Empty object named `Keypoints`.
   - Add small spheres at each predefined location, parented to the root.
 
+<img src="assets/Keypoints.png" alt="List of Keypoints in Blender" width="400"/>
+
 ### 🧭 Position Keypoints (manual):
+![KeypointsList](assets/AnnotatedScan.png)
 - You can scale and rotate the `Keypoints` root object to align the keypoints with the imported mesh.
 - You can individually select and adjust keypoints.
 
