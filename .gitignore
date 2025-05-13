@@ -1,0 +1,37 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Blender backup and autosave files
+*.blend1
+*.blend2
+*.blend@
+
+# Ignore Blender's temporary files
+*.bak
+*.blender
+*.log
+
+# Ignore user-specific Blender files
+/.vscode/
+.idea/
+
+# Ignore zip files (for packaging)
+*.zip
+
+# Ignore macOS system files (for Mac users)
+.DS_Store
+
+# Ignore Windows system files (for Windows users)
+Thumbs.db
+
+# Ignore generated documentation
+docs/_build/
+
+# Ignore virtual environments if any
+.env/
+.venv/
+
+# Ignore any other hidden files/folders you may not need
+.git/

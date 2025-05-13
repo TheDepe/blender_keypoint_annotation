@@ -1,0 +1,1 @@
+from .side_panel import VIEW3D_PT_point_tools
