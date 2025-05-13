@@ -1,6 +1,6 @@
-# 📌 Point Tools – Blender Add-on
+# 📌 Keypoint Tools – Blender Add-on
 
-**Point Tools** is a Blender add-on for adding and exporting predefined named keypoints in your 3D scene. Ideal for character rigging, anatomical annotation, or structured scene marking.
+**Keypoint Tools** is a Blender add-on for adding and exporting predefined named keypoints in your 3D Horse Scans.
 
 ---
 
